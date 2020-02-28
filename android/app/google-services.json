@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "407111141134",
+    "firebase_url": "https://alpaka-f7a38.firebaseio.com",
+    "project_id": "alpaka-f7a38",
+    "storage_bucket": "alpaka-f7a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407111141134:android:28c4ec36123329f913395f",
+        "android_client_info": {
+          "package_name": "com.yakovlevstudio.alpaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407111141134-vci9jjmooo137gpdnhddr1s8lql2i5ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yakovlevstudio.alpaka",
+            "certificate_hash": "752e9d2283b6c3b6887088c19f92b05d15db3bea"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7HU_pgE_e0RhAsUYqcfMX7PABo0djJVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407111141134-tdje9a6n3kns1k03ahqre2pq9ka3clkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
