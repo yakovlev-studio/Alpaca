@@ -16,10 +16,6 @@ $ pod install --repo-update
 
 Google Sign-In requires a `keystore` file to be added to your project and the Firebase console for both debug and release builds, we've included a `debug` one by default. To setup a new `keystore` file, follow the [guide here](https://developer.android.com/studio/publish/app-signing#debug-mode).
 
-### Add your app id and name
-
-This project is preconfigured with `market.reactnative.firebaseauthkit` as its app id. You will probably want to replace it using the `rename-script` npm script provided with this product.
-
 ### Add your Firebase credentials
 
 1. Choose your existing Firebase project from the [Firebase console](https://console.firebase.google.com/).
