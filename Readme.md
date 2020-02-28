@@ -31,6 +31,5 @@ This project is preconfigured with `market.reactnative.firebaseauthkit` as its a
 The Firebase Authentication Kit supports multiple authentication providers. Follow the links below for documentation on setting up each provider:
 
 - [Email and Password Authentication](/docs/email-password-auth.md)
-- [Facebook Authentication](/docs/facebook-auth.md)
 - [Google Authentication](/docs/google-auth.md)
 - [Phone Authentication](/docs/phone-auth.md)
